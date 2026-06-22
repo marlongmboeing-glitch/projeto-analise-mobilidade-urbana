@@ -1,0 +1,205 @@
+data;hora ;bairro_origem;bairro_destino;valor ;distância_km
+02/03/2026;07:34;Guaíra;Jardim das Américas;35.3;6,3
+02/03/2026;08:04;Cajuru;Cajuru;7.1;1,2
+02/03/2026;08:13;Cajuru;Juvevê;21.90;8,6
+02/03/2026;08:53;Juvevê;Santa Cândida;14.14;5,7
+02/03/2026;09:07;Boa Vista;Cabral;12.2;4,4
+02/03/2026;09:25;Cabral;Ahú;6.5;1
+02/03/2026;09:29;Ahú;São Francisco;9.8;3,6
+02/03/2026;09:41;São Francisco;Centro;6.6;1,8
+02/03/2026;09:50;Centro;Centro;6.6;1,3
+03/03/2026;07:30;Fanny;Centro;30.70;8,2
+03/03/2026;08:00;Centro;Guabirotuba;11.2;5,3
+03/03/2026;08:21;Guabirotuba;Hauer;6.9;2,1
+03/03/2026;08:54;Fanny;Hauer;7.4;1,9
+03/03/2026;08:59;Boqueirão ;Parolin;12.1;4,8
+03/03/2026;09:18;Parolin;Parolin;6.5;0,5
+03/03/2026;09:26;Parolin;Água Verde;6.5;3,1
+03/03/2026;09:51;Água Verde;Rebouças;6.6;1,7
+04/03/2026;07:33;Vila Izabel;Seminário;7.9;1,3
+04/03/2026;07:49;Vila Izabel;Água Verde;12.4;2,2
+04/03/2026;08:05;Água Verde;Seminário;6.8;2,1
+04/03/2026;08:23;Santa Quitéria;Seminário;6.9;1,9
+04/03/2026;08:37;Batel;Batel;6.5;2,3
+04/03/2026;08:51;Centro;Mercês;7.4;2
+05/03/2026;07:44;Centro;Boqueirão;19.4;8,3
+05/03/2026;08:12;Boqueirão ;Água Verde;16.4;9,6
+05/03/2026;08:43;Água Verde;Vila Izabel;6,.5;1,4
+05/03/2026;08:47;Vila Izabel;Batel;6.6;1,9
+05/03/2026;09:17;Vila Izabel;Portão;10.7;1,4
+05/03/2026;09:26;Portão;Guaíra;7.3;2,1
+05/03/2026;09:41;Lindóia;Vila Izabel;9.7;3,6
+06/03/2026;07:29;Lindóia;Água Verde;17.00;4,6
+06/03/2026;07:39;Água Verde;Portão;7.5;2,1
+06/03/2026;07:50;Água Verde;Vila Izabel;12.5;2,2
+06/03/2026;08:03;Água Verde;Portão;10.7;4,2
+06/03/2026;08:16;Portão;Parolin;9.2;4,3
+06/03/2026;08:36;Água Verde;Guaíra;6.5;1,9
+06/03/2026;08:38;Guaíra;Água Verde;7.3;3,8
+06/03/2026;09:09;Água Verde;Água Verde;6.5;2,2
+06/03/2026;09:17;Água Verde;Vila Izabel;6.5;1,6
+06/03/2026;09:25;Água Verde;Água Verde;6.5;1
+06/03/2026;09:32;Água Verde;Água Verde;6.6;1,6
+06/03/2026;09:49;Água Verde;Centro;6.5;1,7
+09/03/2026;07:49;Capão Raso;Novo Mundo;18.3;1,3
+09/03/2026;07:58;Capão Raso;Centro;42.1;10,1
+09/03/2026;08:41;Centro;Centro;6.5;2,3
+09/03/2026;08:54;Centro;Centro;6.6;2,3
+09/03/2026;09:08;Rebouças;Centro;7.7;2,4
+09/03/2026;10:00;Água Verde;Água Verde;6.5;2,5
+10/03/2026;07:38;Hauer;Boqueirão;6.8;1,7
+10/03/2026;07:43;Boqueirão ;Hauer;6.6;1,6
+10/03/2026;08:12;Hauer;Hauer;8.8;8,8
+10/03/2026;08:43;Hauer;Hauer;6.5;3
+10/03/2026;09:01;Hauer;Boqueirão;6.5;1,9
+10/03/2026;09:15;Boqueirão ;Boqueirão;7.7;3,7
+10/03/2026;09:35;Boqueirão ;Fanny;16.6;8,3
+11/03/2026;07:34;Novo Mundo;Guaíra;6.82;3,6
+11/03/2026;07:47;Parolin;Parolin;9.3;2
+11/03/2026;08:02;Guaíra;Parolin;7.0;0,9
+11/03/2026;08:14;Guaíra;Parolin;6.5;1,3
+11/03/2026;08:16;Guaíra;Hauer;7.6;3,1
+11/03/2026;08:22;Guaíra;Guaíra;6.5;0,9
+11/03/2026;08:41;Hauer;Hauer;6.5;1,9
+11/03/2026;08:51;Hauer;Hauer;6.5;1,9
+11/03/2026;09:16;Guaíra;Água Verde;10.00;
+11/03/2026;09:36;Vila Izabel;Seminário;8.5;2,6
+11/03/2026;09:44;Campina do Siqueira;Mossunguê;6.5;1,9
+11/03/2026;09:56;Campo Comprido;Cidade Industrial de Curitiba;6.5;1,8
+12/03/2026;07:38;Capão Raso;Novo Mundo;10.10;2,1
+12/03/2026;07:48;Novo Mundo;Água Verde;18.3;3,1
+12/03/2026;07:57;Guaíra;Vila Izabel;10.00;2,4
+12/03/2026;08:09;Água Verde;Água Verde;6.6;1,8
+12/03/2026;08:25;Água Verde;Vila Izabel;6.5;1,8
+12/03/2026;08:34;Água Verde;Água Verde;6.9;1,9
+12/03/2026;08:44;Água Verde;Lindóia;6.6;2,5
+12/03/2026;08:59;Fanny;Portão;6.5;2,4
+12/03/2026;09:08;Água Verde;Água Verde;6.5;1,4
+12/03/2026;09:17;Água Verde;Guaíra;6.5;2,1
+12/03/2026;09:24;Guaíra;Novo Mundo;6.9;1,6
+12/03/2026;09:40;Portão;Guaíra;6.5;2
+12/03/2026;09:46;Guaíra;Água Verde;6.6;2,1
+12/03/2026;10:00;Água Verde;Água Verde;6.9;2,3
+13/03/2026;07:27;Novo Mundo;Água Verde;15.35;4,2
+13/03/2026;07:50;Guaíra;Hauer;12.1;3,1
+13/03/2026;08:01;Guaíra;Água Verde;6.5;2,8
+13/03/2026;08:16;Água Verde;Rebouças;6.6;2,8
+13/03/2026;08:33;Rebouças;Centro;6,5;2,2
+13/03/2026;08:42;Centro;Alto da Glória;7.9;3,1
+13/03/2026;09:06;São Francisco;Alto da XV;9.1;2,8
+13/03/2026;09:16;Cristo Rei;Cristo Rei;6.8;1,4
+13/03/2026;09:24;Juvevê;Centro;6.5;2,1
+13/03/2026;09:33;Centro;São Francisco;6.6;1,8
+13/03/2026;09:44;Centro;Alto da XV;6.5;2,2
+16/03/2026;07:34;Guaíra;Jardim das Américas;38.01;6,2
+16/03/2026;07:56;Cajuru;Batel;34.8;8
+16/03/2026;08:38;Centro;Centro;6.6;1,3
+16/03/2026;08:51;Centro;Cristo Rei;9.8;4,4
+16/03/2026;09:14;Cristo Rei;Jardim Botânico;7.15;2
+16/03/2026;09:24;Jardim Botânico;Água Verde;9.4;3,9
+16/03/2026;09:55;Água Verde;Portão;7.98;2,7
+17/03/2026;07:42;Novo Mundo;Novo Mundo;11.3;2,8
+17/03/2026;07:54;Novo Mundo;Cidade Industrial de Curitiba;9.9;2,5
+17/03/2026;08:04;Cidade Industrial de Curitiba;Fazendinha;6.5;2,6
+17/03/2026;08:10;Portão;Água Verde;8.2;2,5
+17/03/2026;08:20;Portão;Água Verde;7.5;2,7
+17/03/2026;08:42;Guaíra;Água Verde;6.8;2,7
+17/03/2026;08:52;Água Verde;Água Verde;6.5;1,8
+17/03/2026;09:02;Água Verde;Água Verde;6.5;2,7
+17/03/2026;09:20;Guaíra;Rebouças;6.5;0,7
+17/03/2026;09:39;Água Verde;Portão;6.6;1,6
+17/03/2026;09:51;Portão;Guaíra;8.6;3,9
+18/03/2026;07:38;Novo Mundo;Novo Mundo;11.2;0,9
+18/03/2026;07:46;Novo Mundo;Novo Mundo;9.00;0,9
+18/03/2026;07:54;Fanny;Parolin;11.9;3,4
+18/03/2026;08:07;Parolin;Água Verde;7.1;4,3
+18/03/2026;08:18;Água Verde;Água Verde;6.5;1,5
+18/03/2026;08:27;Água Verde;Novo Mundo;11.1;6,5
+18/03/2026;08:35;Novo Mundo;Fazendinha;6.6;2,6
+18/03/2026;08:52;Fazendinha;Portão;8,7;3,7
+18/03/2026;09:09;Novo Mundo;Portão;7.6;2,8
+18/03/2026;09:20;Rebouças;Novo Mundo;6.6;1,7
+18/03/2026;09:27;Novo Mundo;Novo Mundo;6.5;1,6
+18/03/2026;09:39;Novo Mundo;Capão Raso;6.9;3
+18/03/2026;10:00;Capão Raso;Portão;8.3;3,9
+19/03/2026;07:32;Capão Raso;Xaxim;8.5;2,3
+19/03/2026;07:41;Xaxim;Xaxim;8.7;1,1
+19/03/2026;07:46;Xaxim;Xaxim;8.3;1,7
+19/03/2026;08:08;Pinheirinho;Xaxim;8.2;0,8
+19/03/2026;08:15;Pinheirinho;Sitio Cercado;7.59;1,9
+19/03/2026;08:28;Sitio Cercado;Xaxim;6.6;1,8
+19/03/2026;08:31;Xaxim;Xaxim;6.9;2,8
+19/03/2026;08:45;Pinheirinho;Boqueirão;8.7;3,8
+19/03/2026;08:55;Alto Boqueirão;Hauer;7.3;3,3
+19/03/2026;09:12;Boqueirão ;Xaxim;6.5;3,2
+19/03/2026;09:26;Xaxim;Hauer;12.5;5
+19/03/2026;09:38;Hauer;Xaxim;6.5;2,7
+19/03/2026;09:45;Boqueirão ;Hauer;6.5;2,8
+19/03/2026;10:00;Vila Izabel;Hauer;6.5;1,5
+20/03/2026;07:40;Lindóia;Lindóia;16.7;4,4
+20/03/2026;07:55;Novo Mundo;Portão;9.9;2,8
+20/03/2026;08:05;Portão;Água Verde;6.6;2,4
+20/03/2026;08:15;Portão;Guaíra;6.5;2,6
+20/03/2026;08:30;Guaíra;Água Verde;7.6;3,6
+20/03/2026;08:38;Água Verde;Rebouças;6.5;2,2
+20/03/2026;08:58;Água Verde;Parolin;7.3;2,1
+20/03/2026;09:06;Rebouças;Água Verde;6.5;1,6
+20/03/2026;09:13;Água Verde;Água Verde;6.5;2,2
+20/03/2026;09:24;Água Verde;Água Verde;6.7;2,4
+20/03/2026;09:37;Água Verde;Guaíra;6.5;1,8
+20/03/2026;09:41;Água Verde;Água Verde;6.8;3
+20/03/2026;09:55;Guaíra;Guaíra;6.5;1,1
+23/03/2026;07:35;Novo Mundo;Parolin;12.5;2,9
+23/03/2026;07:40;Parolin;Novo Mundo;9.7;2,8
+23/03/2026;07:53;Lindóia;Novo Mundo;13.1;2,1
+23/03/2026;08:06;Capão Raso;Novo Mundo;7.70;1,4
+23/03/2026;08:18;Portão;Água Verde;6.9;2,7
+23/03/2026;08:35;Guaíra;Água Verde;7.6;2,7
+23/03/2026;08:46;Centro;Água Verde;7.4;0,9
+23/03/2026;08:55;Rebouças;Água Verde;6.5;1,5
+23/03/2026;09:08;Guaíra;Água Verde;6.6;2,7
+23/03/2026;09:22;Água Verde;Água Verde;6.7;1,3
+23/03/2026;09:29;Água Verde;Água Verde;6.5;2,3
+24/03/2026;07:22;Portão;Guaíra;10.4;1,9
+24/03/2026;07:31;Guaíra;Água Verde;6.6;1,6
+24/03/2026;07:36;Água Verde;Prado Velho;10.7;3,6
+24/03/2026;07:53;Prado Velho;Prado Velho;6.9;1,8
+24/03/2026;08:06;Parolin;Centro;8.2;3,6
+24/03/2026;08:21;Água Verde;Santa Quitéria;8.00;2,7
+24/03/2026;08:34;Vila Izabel;Parolin;11.97;6,2
+24/03/2026;09:00;Rebouças;Rebouças;6.5;1,4
+24/03/2026;09:05;Rebouças;Rebouças;6.6;2
+24/03/2026;09:26;Rebouças;Parolin;6.5;2,6
+24/03/2026;09:32;Guaíra;Água Verde;6.5;2,3
+24/03/2026;09:46;Água Verde;Água Verde;6.5;2,7
+24/03/2026;09:57;Água Verde;Guaíra;6.5;3,7
+25/03/2026;07:47;Fanny;Fanny;12.2;1,4
+25/03/2026;07:59;Lindóia;Guaíra;6.7;1,9
+25/03/2026;08:09;Parolin;Água Verde;6.9;3,3
+25/03/2026;08:18;Água Verde;Rebouças;7.69;3,3
+25/03/2026;08:37;Rebouças;Parolin;6.7;0,8
+25/03/2026;08:41;Centro;Hauer;6.6;1,9
+25/03/2026;10:00;Hauer;Boqueirão;6.6;1,8
+26/03/2026;07:27;Lindóia;Água Verde;12.5;2,7
+26/03/2026;07:36;Portão;Fazendinha;17.2;4,8
+26/03/2026;07:53;Fazendinha;Fazendinha;7.2;0,8
+26/03/2026;08:00;Fazendinha;Guaíra;13.2;5,6
+26/03/2026;08:21;Água Verde;Água Verde;6.5;1,6
+26/03/2026;08:28;Água Verde;Água Verde;6.5;2
+26/03/2026;08:34;Água Verde;Rebouças;7.6;3,3
+26/03/2026;08:57;Água Verde;Água Verde;7.1;3
+26/03/2026;09:14;Água Verde;Água Verde;6.8;3
+26/03/2026;09:33;Água Verde;Rebouças;6.5;1,9
+26/03/2026;09:42;Água Verde;Portão;6.6;3,8
+26/03/2026;09:54;Portão;Água Verde;7.3;3
+27/03/2026;07:36;Novo Mundo;Parolin;10.5;2,9
+27/03/2026;07:41;Guaíra;Novo Mundo;8.1;1,8
+27/03/2026;07:50;Lindóia;Novo Mundo;6.9;2
+27/03/2026;07:57;Novo Mundo;Xaxim;9.4;4,4
+27/03/2026;08:17;Xaxim;Boqueirão;6.6;2,4
+27/03/2026;08:31;Boqueirão ;Hauer;10.00;4,6
+27/03/2026;08:46;Hauer;Boqueirão;6.9;2,7
+27/03/2026;09:19;Boqueirão ;Hauer;6.5;1,4
+27/03/2026;09:30;Boqueirão ;Guabirotuba;9.4;4,7
+27/03/2026;09:51;Hauer;Hauer;7.3;1,1
+27/03/2026;09:57;Hauer;Guaíra;7.5;2,9
