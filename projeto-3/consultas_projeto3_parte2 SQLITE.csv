@@ -1,0 +1,590 @@
+﻿data;periodo;horario;faixa_horaria;bairro_origem;regional_origem;bairro_destino;valor_corrida;distancia_km;faixa_distancia
+02/03/2026;manhã;07:34;07h;Guaíra;Portão;Jardim das Américas;35,3;6,3;Longa
+02/03/2026;manhã;08:13;08h;Cajuru;Cajuru;Juvevê;21,9;8,6;Longa
+02/03/2026;manhã;08:53;08h;Juvevê;Matriz;Santa Cândida;14,14;5,7;Longa
+02/03/2026;manhã;09:07;09h;Boa Vista;Boa Vista;Cabral;12,2;4,4;Longa
+02/03/2026;manhã;09:29;09h;Ahú;Matriz;São Francisco;9,8;3,6;Média
+02/03/2026;manhã;08:04;08h;Cajuru;Cajuru;Cajuru;7,1;1,2;Curta
+02/03/2026;manhã;09:50;09h;Centro;Matriz;Centro;6,6;1,3;Curta
+02/03/2026;manhã;09:41;09h;São Francisco;Matriz;Centro;6,6;1,8;Curta
+02/03/2026;manhã;09:25;09h;Cabral;Matriz;Ahú;6,5;1;Curta
+03/03/2026;manhã;07:30;07h;Fanny;Portão;Centro;30,7;8,2;Longa
+03/03/2026;manhã;08:59;08h;Boqueirão;Boqueirão;Parolin;12,1;4,8;Longa
+03/03/2026;manhã;08:00;08h;Centro;Matriz;Guabirotuba;11,2;5,3;Longa
+03/03/2026;manhã;08:54;08h;Fanny;Portão;Hauer;7,4;1,9;Curta
+03/03/2026;manhã;08:21;08h;Guabirotuba;Cajuru;Hauer;6,9;2,1;Média
+03/03/2026;manhã;09:51;09h;Água Verde;Portão;Rebouças;6,6;1,7;Curta
+03/03/2026;manhã;09:18;09h;Parolin;Portão;Parolin;6,5;0,5;Curta
+03/03/2026;manhã;09:26;09h;Parolin;Portão;Água Verde;6,5;3,1;Média
+04/03/2026;manhã;07:49;07h;Vila Izabel;Portão;Seminário;12,4;2,2;Média
+04/03/2026;manhã;07:33;07h;Vila Izabel;Portão;Mercês;7,9;1,3;Curta
+04/03/2026;manhã;08:51;08h;Centro;Matriz;Seminário;7,4;2;Curta
+04/03/2026;manhã;08:23;08h;Santa Quitéria;Portão;Seminário;6,9;1,9;Curta
+04/03/2026;manhã;08:05;08h;Água Verde;Portão;Batel;6,8;2,1;Média
+04/03/2026;manhã;08:37;08h;Batel;Matriz;Boqueirão;6,5;2,3;Média
+05/03/2026;manhã;07:44;07h;Centro;Matriz;Água Verde;19,4;8,3;Longa
+05/03/2026;manhã;08:12;08h;Boqueirão;Boqueirão;Portão;16,4;9,6;Longa
+05/03/2026;manhã;09:17;09h;Vila Izabel;Portão;Vila Izabel;10,7;1,4;Curta
+05/03/2026;manhã;09:41;09h;Lindóia;Portão;Guaíra;9,7;3,6;Média
+05/03/2026;manhã;09:26;09h;Portão;Portão;Batel;7,3;2,1;Média
+05/03/2026;manhã;08:47;08h;Vila Izabel;Portão;Vila Izabel;6,6;1,9;Curta
+05/03/2026;manhã;08:43;08h;Água Verde;Portão;Água Verde;6,5;1,4;Curta
+06/03/2026;manhã;07:29;07h;Lindóia;Portão;Vila Izabel;17;4,6;Longa
+06/03/2026;manhã;07:50;07h;Água Verde;Portão;Portão;12,5;2,2;Média
+06/03/2026;manhã;08:03;08h;Água Verde;Portão;Parolin;10,7;4,2;Longa
+06/03/2026;manhã;08:16;08h;Portão;Portão;Portão;9,2;4,3;Longa
+06/03/2026;manhã;07:39;07h;Água Verde;Portão;Água Verde;7,5;2,1;Média
+06/03/2026;manhã;08:38;08h;Guaíra;Portão;Água Verde;7,3;3,8;Média
+06/03/2026;manhã;09:32;09h;Água Verde;Portão;Guaíra;6,6;1,6;Curta
+06/03/2026;manhã;08:36;08h;Água Verde;Portão;Água Verde;6,5;1,9;Curta
+06/03/2026;manhã;09:09;09h;Água Verde;Portão;Vila Izabel;6,5;2,2;Média
+06/03/2026;manhã;09:17;09h;Água Verde;Portão;Água Verde;6,5;1,6;Curta
+06/03/2026;manhã;09:25;09h;Água Verde;Portão;Centro;6,5;1;Curta
+06/03/2026;manhã;09:49;09h;Água Verde;Portão;Centro;6,5;1,7;Curta
+09/03/2026;manhã;07:58;07h;Capão Raso;Pinheirinho;Novo Mundo;42,1;10,1;Longa
+09/03/2026;manhã;07:49;07h;Capão Raso;Pinheirinho;Centro;18,3;1,3;Curta
+09/03/2026;manhã;09:08;09h;Rebouças;Matriz;Centro;7,7;2,4;Média
+09/03/2026;manhã;08:54;08h;Centro;Matriz;Água Verde;6,6;2,3;Média
+09/03/2026;manhã;10:00;10h;Água Verde;Portão;Centro;6,5;2,5;Média
+09/03/2026;manhã;08:41;08h;Centro;Matriz;Fanny;6,5;2,3;Média
+10/03/2026;manhã;09:35;09h;Boqueirão;Boqueirão;Hauer;16,6;8,3;Longa
+10/03/2026;manhã;08:12;08h;Hauer;Boqueirão;Boqueirão;8,8;8,8;Longa
+10/03/2026;manhã;09:15;09h;Boqueirão;Boqueirão;Boqueirão;7,7;3,7;Média
+10/03/2026;manhã;07:38;07h;Hauer;Boqueirão;Hauer;6,8;1,7;Curta
+10/03/2026;manhã;07:43;07h;Boqueirão;Boqueirão;Hauer;6,6;1,6;Curta
+10/03/2026;manhã;08:43;08h;Hauer;Boqueirão;Boqueirão;6,5;3;Média
+10/03/2026;manhã;09:01;09h;Hauer;Boqueirão;Água Verde;6,5;1,9;Curta
+11/03/2026;manhã;09:16;09h;Guaíra;Portão;Parolin;10;4,5;Longa
+11/03/2026;manhã;07:47;07h;Parolin;Portão;Seminário;9,3;2;Curta
+11/03/2026;manhã;09:36;09h;Vila Izabel;Portão;Hauer;8,5;2,6;Média
+11/03/2026;manhã;08:16;08h;Guaíra;Portão;Parolin;7,6;3,1;Média
+11/03/2026;manhã;08:02;08h;Guaíra;Portão;Guaíra;7;0,9;Curta
+11/03/2026;manhã;07:34;07h;Novo Mundo;Portão;Mossunguê;6,82;3,6;Média
+11/03/2026;manhã;09:44;09h;Campina do Siqueira;Santa Felicidade;Cidade Industrial de Curitiba;6,5;1,9;Curta
+11/03/2026;manhã;09:56;09h;Campo Comprido;Portão;Parolin;6,5;1,8;Curta
+11/03/2026;manhã;08:14;08h;Guaíra;Portão;Guaíra;6,5;1,3;Curta
+11/03/2026;manhã;08:22;08h;Guaíra;Portão;Hauer;6,5;0,9;Curta
+11/03/2026;manhã;08:41;08h;Hauer;Boqueirão;Hauer;6,5;1,9;Curta
+11/03/2026;manhã;08:51;08h;Hauer;Boqueirão;Água Verde;6,5;1,9;Curta
+12/03/2026;manhã;07:48;07h;Novo Mundo;Portão;Novo Mundo;18,3;3,1;Média
+12/03/2026;manhã;07:38;07h;Capão Raso;Pinheirinho;Vila Izabel;10,1;2,1;Média
+12/03/2026;manhã;07:57;07h;Guaíra;Portão;Água Verde;10;2,4;Média
+12/03/2026;manhã;08:34;08h;Água Verde;Portão;Água Verde;6,9;1,9;Curta
+12/03/2026;manhã;10:00;10h;Água Verde;Portão;Novo Mundo;6,9;2,3;Média
+12/03/2026;manhã;09:24;09h;Guaíra;Portão;Água Verde;6,9;1,6;Curta
+12/03/2026;manhã;08:09;08h;Água Verde;Portão;Lindóia;6,6;1,8;Curta
+12/03/2026;manhã;08:44;08h;Água Verde;Portão;Água Verde;6,6;2,5;Média
+12/03/2026;manhã;09:46;09h;Guaíra;Portão;Vila Izabel;6,6;2,1;Média
+12/03/2026;manhã;08:25;08h;Água Verde;Portão;Água Verde;6,5;1,8;Curta
+12/03/2026;manhã;09:08;09h;Água Verde;Portão;Guaíra;6,5;1,4;Curta
+12/03/2026;manhã;09:17;09h;Água Verde;Portão;Portão;6,5;2,1;Média
+12/03/2026;manhã;08:59;08h;Fanny;Portão;Guaíra;6,5;2,4;Média
+12/03/2026;manhã;09:40;09h;Portão;Portão;Água Verde;6,5;2;Curta
+13/03/2026;manhã;07:27;07h;Novo Mundo;Portão;Hauer;15,35;4,2;Longa
+13/03/2026;manhã;07:50;07h;Guaíra;Portão;Alto da XV;12,1;3,1;Média
+13/03/2026;manhã;09:06;09h;São Francisco;Matriz;Alto da Glória;9,1;2,8;Média
+13/03/2026;manhã;08:42;08h;Centro;Matriz;Cristo Rei;7,9;3,1;Média
+13/03/2026;manhã;09:16;09h;Cristo Rei;Matriz;Rebouças;6,8;1,4;Curta
+13/03/2026;manhã;08:16;08h;Água Verde;Portão;São Francisco;6,6;2,8;Média
+13/03/2026;manhã;09:33;09h;Centro;Matriz;Alto da XV;6,6;1,8;Curta
+13/03/2026;manhã;09:44;09h;Centro;Matriz;Água Verde;6,5;2,2;Média
+13/03/2026;manhã;08:01;08h;Guaíra;Portão;Centro;6,5;2,8;Média
+13/03/2026;manhã;09:24;09h;Juvevê;Matriz;Centro;6,5;2,1;Média
+13/03/2026;manhã;08:33;08h;Rebouças;Matriz;Jardim das Américas;6,5;2,2;Média
+16/03/2026;manhã;07:34;07h;Guaíra;Portão;Batel;38,01;6,2;Longa
+16/03/2026;manhã;07:56;07h;Cajuru;Cajuru;Cristo Rei;34,8;8;Longa
+16/03/2026;manhã;08:51;08h;Centro;Matriz;Água Verde;9,8;4,4;Longa
+16/03/2026;manhã;09:24;09h;Jardim Botânico;Matriz;Portão;9,4;3,9;Média
+16/03/2026;manhã;09:55;09h;Água Verde;Portão;Jardim Botânico;7,98;2,7;Média
+16/03/2026;manhã;09:14;09h;Cristo Rei;Matriz;Centro;7,15;2;Curta
+16/03/2026;manhã;08:38;08h;Centro;Matriz;Novo Mundo;6,6;1,3;Curta
+17/03/2026;manhã;07:42;07h;Novo Mundo;Portão;Cidade Industrial de Curitiba;11,3;2,8;Média
+17/03/2026;manhã;07:54;07h;Novo Mundo;Portão;Guaíra;9,9;2,5;Média
+17/03/2026;manhã;09:51;09h;Portão;Portão;Água Verde;8,6;3,9;Média
+17/03/2026;manhã;08:10;08h;Portão;Portão;Água Verde;8,2;2,5;Média
+17/03/2026;manhã;08:20;08h;Portão;Portão;Água Verde;7,5;2,7;Média
+17/03/2026;manhã;08:42;08h;Guaíra;Portão;Portão;6,8;2,7;Média
+17/03/2026;manhã;09:39;09h;Água Verde;Portão;Água Verde;6,6;1,6;Curta
+17/03/2026;manhã;08:52;08h;Água Verde;Portão;Água Verde;6,5;1,8;Curta
+17/03/2026;manhã;09:02;09h;Água Verde;Portão;Fazendinha;6,5;2,7;Média
+17/03/2026;manhã;08:04;08h;Cidade Industrial de Curitiba;CIC;Rebouças;6,5;2,6;Média
+17/03/2026;manhã;09:20;09h;Guaíra;Portão;Parolin;6,5;0,7;Curta
+18/03/2026;manhã;07:54;07h;Fanny;Portão;Novo Mundo;11,9;3,4;Média
+18/03/2026;manhã;07:38;07h;Novo Mundo;Portão;Novo Mundo;11,2;0,9;Curta
+18/03/2026;manhã;08:27;08h;Água Verde;Portão;Novo Mundo;11,1;6,5;Longa
+18/03/2026;manhã;07:46;07h;Novo Mundo;Portão;Portão;9;0,9;Curta
+18/03/2026;manhã;08:52;08h;Fazendinha;Portão;Portão;8,7;3,7;Média
+18/03/2026;manhã;10:00;10h;Capão Raso;Pinheirinho;Portão;8,3;3,9;Média
+18/03/2026;manhã;09:09;09h;Novo Mundo;Portão;Água Verde;7,6;2,8;Média
+18/03/2026;manhã;08:07;08h;Parolin;Portão;Capão Raso;7,1;4,3;Longa
+18/03/2026;manhã;09:39;09h;Novo Mundo;Portão;Fazendinha;6,9;3;Média
+18/03/2026;manhã;08:35;08h;Novo Mundo;Portão;Novo Mundo;6,6;2,6;Média
+18/03/2026;manhã;09:20;09h;Rebouças;Matriz;Água Verde;6,6;1,7;Curta
+18/03/2026;manhã;08:18;08h;Água Verde;Portão;Novo Mundo;6,5;1,5;Curta
+18/03/2026;manhã;09:27;09h;Novo Mundo;Portão;Hauer;6,5;1,6;Curta
+19/03/2026;manhã;09:26;09h;Xaxim;Boqueirão;Boqueirão;12,5;5;Longa
+19/03/2026;manhã;08:45;08h;Pinheirinho;Pinheirinho;Xaxim;8,7;3,8;Média
+19/03/2026;manhã;07:41;07h;Xaxim;Boqueirão;Xaxim;8,7;1,1;Curta
+19/03/2026;manhã;07:32;07h;Capão Raso;Pinheirinho;Xaxim;8,5;2,3;Média
+19/03/2026;manhã;07:46;07h;Xaxim;Boqueirão;Xaxim;8,3;1,7;Curta
+19/03/2026;manhã;08:08;08h;Pinheirinho;Pinheirinho;Sítio Cercado;8,2;0,8;Curta
+19/03/2026;manhã;08:15;08h;Pinheirinho;Pinheirinho;Hauer;7,59;1,9;Curta
+19/03/2026;manhã;08:55;08h;Alto Boqueirão;Boqueirão;Xaxim;7,3;3,3;Média
+19/03/2026;manhã;08:31;08h;Xaxim;Boqueirão;Xaxim;6,9;2,8;Média
+19/03/2026;manhã;08:28;08h;Sítio Cercado;Bairro Novo;Xaxim;6,6;1,8;Curta
+19/03/2026;manhã;09:12;09h;Boqueirão;Boqueirão;Hauer;6,5;3,2;Média
+19/03/2026;manhã;09:45;09h;Boqueirão;Boqueirão;Xaxim;6,5;2,8;Média
+19/03/2026;manhã;09:38;09h;Hauer;Boqueirão;Hauer;6,5;2,7;Média
+19/03/2026;manhã;10:00;10h;Vila Izabel;Portão;Lindóia;6,5;1,5;Curta
+20/03/2026;manhã;07:40;07h;Lindóia;Portão;Portão;16,7;4,4;Longa
+20/03/2026;manhã;07:55;07h;Novo Mundo;Portão;Água Verde;9,9;2,8;Média
+20/03/2026;manhã;08:30;08h;Guaíra;Portão;Parolin;7,6;3,6;Média
+20/03/2026;manhã;08:58;08h;Água Verde;Portão;Água Verde;7,3;2,1;Média
+20/03/2026;manhã;09:41;09h;Água Verde;Portão;Água Verde;6,8;3;Média
+20/03/2026;manhã;09:24;09h;Água Verde;Portão;Água Verde;6,7;2,4;Média
+20/03/2026;manhã;08:05;08h;Portão;Portão;Rebouças;6,6;2,4;Média
+20/03/2026;manhã;08:38;08h;Água Verde;Portão;Água Verde;6,5;2,2;Média
+20/03/2026;manhã;09:13;09h;Água Verde;Portão;Guaíra;6,5;2,2;Média
+20/03/2026;manhã;09:37;09h;Água Verde;Portão;Guaíra;6,5;1,8;Curta
+20/03/2026;manhã;09:55;09h;Guaíra;Portão;Guaíra;6,5;1,1;Curta
+20/03/2026;manhã;08:15;08h;Portão;Portão;Água Verde;6,5;2,6;Média
+20/03/2026;manhã;09:06;09h;Rebouças;Matriz;Novo Mundo;6,5;1,6;Curta
+23/03/2026;manhã;07:53;07h;Lindóia;Portão;Parolin;13,1;2,1;Média
+23/03/2026;manhã;07:35;07h;Novo Mundo;Portão;Novo Mundo;12,5;2,9;Média
+23/03/2026;manhã;07:40;07h;Parolin;Portão;Novo Mundo;9,7;2,8;Média
+23/03/2026;manhã;08:06;08h;Capão Raso;Pinheirinho;Água Verde;7,7;1,4;Curta
+23/03/2026;manhã;08:35;08h;Guaíra;Portão;Água Verde;7,6;2,7;Média
+23/03/2026;manhã;08:46;08h;Centro;Matriz;Água Verde;7,4;0,9;Curta
+23/03/2026;manhã;08:18;08h;Portão;Portão;Água Verde;6,9;2,7;Média
+23/03/2026;manhã;09:22;09h;Água Verde;Portão;Água Verde;6,7;1,3;Curta
+23/03/2026;manhã;09:08;09h;Guaíra;Portão;Água Verde;6,6;2,7;Média
+23/03/2026;manhã;09:29;09h;Água Verde;Portão;Água Verde;6,5;2,3;Média
+23/03/2026;manhã;08:55;08h;Rebouças;Matriz;Parolin;6,5;1,5;Curta
+24/03/2026;manhã;08:34;08h;Vila Izabel;Portão;Prado Velho;11,97;6,2;Longa
+24/03/2026;manhã;07:36;07h;Água Verde;Portão;Guaíra;10,7;3,6;Média
+24/03/2026;manhã;07:22;07h;Portão;Portão;Centro;10,4;1,9;Curta
+24/03/2026;manhã;08:06;08h;Parolin;Portão;Santa Quitéria;8,2;3,6;Média
+24/03/2026;manhã;08:21;08h;Água Verde;Portão;Prado Velho;8;2,7;Média
+24/03/2026;manhã;07:53;07h;Prado Velho;Matriz;Água Verde;6,9;1,8;Curta
+24/03/2026;manhã;07:31;07h;Guaíra;Portão;Rebouças;6,6;1,6;Curta
+24/03/2026;manhã;09:05;09h;Rebouças;Matriz;Água Verde;6,6;2;Curta
+24/03/2026;manhã;09:46;09h;Água Verde;Portão;Guaíra;6,5;2,7;Média
+24/03/2026;manhã;09:57;09h;Água Verde;Portão;Água Verde;6,5;3,7;Média
+24/03/2026;manhã;09:32;09h;Guaíra;Portão;Rebouças;6,5;2,3;Média
+24/03/2026;manhã;09:00;09h;Rebouças;Matriz;Parolin;6,5;1,4;Curta
+24/03/2026;manhã;09:26;09h;Rebouças;Matriz;Fanny;6,5;2,6;Média
+25/03/2026;manhã;07:47;07h;Fanny;Portão;Rebouças;12,2;1,4;Curta
+25/03/2026;manhã;08:18;08h;Água Verde;Portão;Água Verde;7,69;3,3;Média
+25/03/2026;manhã;08:09;08h;Parolin;Portão;Guaíra;6,9;3,3;Média
+25/03/2026;manhã;07:59;07h;Lindóia;Portão;Parolin;6,7;1,9;Curta
+25/03/2026;manhã;08:37;08h;Rebouças;Matriz;Hauer;6,7;0,8;Curta
+25/03/2026;manhã;08:41;08h;Centro;Matriz;Boqueirão;6,6;1,9;Curta
+25/03/2026;manhã;10:00;10h;Hauer;Boqueirão;Fazendinha;6,6;1,8;Curta
+26/03/2026;manhã;07:36;07h;Portão;Portão;Guaíra;17,2;4,8;Longa
+26/03/2026;manhã;08:00;08h;Fazendinha;Portão;Água Verde;13,2;5,6;Longa
+26/03/2026;manhã;07:27;07h;Lindóia;Portão;Rebouças;12,5;2,7;Média
+26/03/2026;manhã;08:34;08h;Água Verde;Portão;Água Verde;7,6;3,3;Média
+26/03/2026;manhã;09:54;09h;Portão;Portão;Fazendinha;7,3;3;Média
+26/03/2026;manhã;07:53;07h;Fazendinha;Portão;Água Verde;7,2;0,8;Curta
+26/03/2026;manhã;08:57;08h;Água Verde;Portão;Água Verde;7,1;3;Média
+26/03/2026;manhã;09:14;09h;Água Verde;Portão;Portão;6,8;3;Média
+26/03/2026;manhã;09:42;09h;Água Verde;Portão;Água Verde;6,6;3,8;Média
+26/03/2026;manhã;08:21;08h;Água Verde;Portão;Água Verde;6,5;1,6;Curta
+26/03/2026;manhã;08:28;08h;Água Verde;Portão;Rebouças;6,5;2;Curta
+26/03/2026;manhã;09:33;09h;Água Verde;Portão;Parolin;6,5;1,9;Curta
+27/03/2026;manhã;07:36;07h;Novo Mundo;Portão;Hauer;10,5;2,9;Média
+27/03/2026;manhã;08:31;08h;Boqueirão;Boqueirão;Guabirotuba;10;4,6;Longa
+27/03/2026;manhã;09:30;09h;Boqueirão;Boqueirão;Xaxim;9,4;4,7;Longa
+27/03/2026;manhã;07:57;07h;Novo Mundo;Portão;Novo Mundo;9,4;4,4;Longa
+27/03/2026;manhã;07:41;07h;Guaíra;Portão;Guaíra;8,1;1,8;Curta
+27/03/2026;manhã;09:57;09h;Hauer;Boqueirão;Hauer;7,5;2,9;Média
+27/03/2026;manhã;09:51;09h;Hauer;Boqueirão;Boqueirão;7,3;1,1;Curta
+27/03/2026;manhã;08:46;08h;Hauer;Boqueirão;Novo Mundo;6,9;2,7;Média
+27/03/2026;manhã;07:50;07h;Lindóia;Portão;Boqueirão;6,9;2;Curta
+27/03/2026;manhã;08:17;08h;Xaxim;Boqueirão;Hauer;6,6;2,4;Média
+27/03/2026;manhã;09:19;09h;Boqueirão;Boqueirão;Uberaba;6,5;1,4;Curta
+02/03/2026;tarde;17:13;17h;Centro;Matriz;Parolin;14,7;5;Longa
+02/03/2026;tarde;16:53;16h;Parolin;Portão;Água Verde;14,39;4,7;Longa
+02/03/2026;tarde;19:28;19h;Hauer;Boqueirão;Sítio Cercado;12;5,7;Longa
+02/03/2026;tarde;17:55;17h;Boqueirão;Boqueirão;Boqueirão;11,5;4,8;Longa
+02/03/2026;tarde;19:13;19h;Boqueirão;Boqueirão;Boqueirão;9,3;4,5;Longa
+02/03/2026;tarde;17:39;17h;Boqueirão;Boqueirão;Hauer;8,8;3,3;Média
+02/03/2026;tarde;16:38;16h;Hauer;Boqueirão;Boqueirão;8,12;2;Curta
+02/03/2026;tarde;17:29;17h;Uberaba;Cajuru;Parolin;7,9;2,4;Média
+02/03/2026;tarde;16:47;16h;Fanny;Portão;Sítio Cercado;6,9;1,3;Curta
+02/03/2026;tarde;18:34;18h;Sítio Cercado;Bairro Novo;Guaíra;6,7;1,2;Curta
+02/03/2026;tarde;15:42;15h;Água Verde;Portão;Guaíra;6,6;0,8;Curta
+02/03/2026;tarde;15:30;15h;Lindóia;Portão;Parolin;6,6;1,1;Curta
+02/03/2026;tarde;16:09;16h;Parolin;Portão;Sítio Cercado;6,6;1,5;Curta
+02/03/2026;tarde;18:48;18h;Sítio Cercado;Bairro Novo;Guaíra;6,6;1,7;Curta
+02/03/2026;tarde;19:49;19h;Água Verde;Portão;Boqueirão;6,5;2,2;Média
+02/03/2026;tarde;19:00;19h;Alto Boqueirão;Boqueirão;Portão;6,5;2,3;Média
+02/03/2026;tarde;15:05;15h;Guaíra;Portão;Lindóia;6,5;1,2;Curta
+02/03/2026;tarde;19:55;19h;Guaíra;Portão;Lindóia;6,5;1,9;Curta
+02/03/2026;tarde;15:11;15h;Portão;Portão;Sítio Cercado;6,5;2,2;Média
+02/03/2026;tarde;18:16;18h;Sítio Cercado;Bairro Novo;Sítio Cercado;6,5;2;Curta
+02/03/2026;tarde;18:28;18h;Sítio Cercado;Bairro Novo;Alto Boqueirão;6,5;2,1;Média
+02/03/2026;tarde;18:58;18h;Sítio Cercado;Bairro Novo;Guaíra;6,5;1,8;Curta
+03/03/2026;tarde;16:46;16h;Centro;Matriz;Boqueirão;22,5;6,4;Longa
+03/03/2026;tarde;17:22;17h;Guaíra;Portão;Boqueirão;11,6;5,1;Longa
+03/03/2026;tarde;19:03;19h;Sítio Cercado;Bairro Novo;Guaíra;10,7;6;Longa
+03/03/2026;tarde;17:12;17h;Guaíra;Portão;Xaxim;9,5;3,5;Média
+03/03/2026;tarde;18:16;18h;Boqueirão;Boqueirão;Mercês;9,4;2,9;Média
+03/03/2026;tarde;15:59;15h;Centro;Matriz;Bigorrílho;8,9;3;Média
+03/03/2026;tarde;16:17;16h;Mercês;Matriz;Pinheirinho;8,4;0,9;Curta
+03/03/2026;tarde;18:26;18h;Xaxim;Boqueirão;Xaxim;8,1;2,6;Média
+03/03/2026;tarde;17:54;17h;Centro;Matriz;Centro;8;2,8;Média
+03/03/2026;tarde;16:25;16h;Centro;Matriz;Boqueirão;7,7;2,6;Média
+03/03/2026;tarde;17:44;17h;Boqueirão;Boqueirão;Centro;7,5;1,5;Curta
+03/03/2026;tarde;15:38;15h;Rebouças;Matriz;Rebouças;6,9;1,7;Curta
+03/03/2026;tarde;15:33;15h;Centro;Matriz;Mercês;6,8;1,9;Curta
+03/03/2026;tarde;16:05;16h;Mercês;Matriz;Centro;6,8;1,7;Curta
+03/03/2026;tarde;15:05;15h;São Francisco;Matriz;Centro;6,8;2,8;Média
+03/03/2026;tarde;15:18;15h;Alto da Glória;Matriz;Hauer;6,5;1,9;Curta
+03/03/2026;tarde;17:43;17h;Boqueirão;Boqueirão;Sítio Cercado;6,5;1;Curta
+03/03/2026;tarde;18:46;18h;Sítio Cercado;Bairro Novo;Sítio Cercado;6,5;1,8;Curta
+03/03/2026;tarde;18:55;18h;Sítio Cercado;Bairro Novo;Xaxim;6,5;2,4;Média
+03/03/2026;tarde;18:07;18h;Xaxim;Boqueirão;Sítio Cercado;6,5;1,3;Curta
+03/03/2026;tarde;18:42;18h;Xaxim;Boqueirão;Portão;6,5;1,8;Curta
+04/03/2026;tarde;18:05;18h;Xaxim;Boqueirão;Hauer;16,1;6,4;Longa
+04/03/2026;tarde;17:39;17h;Hauer;Boqueirão;Novo Mundo;11,27;2;Curta
+04/03/2026;tarde;18:54;18h;Novo Mundo;Portão;Boqueirão;10,4;2,3;Média
+04/03/2026;tarde;16:52;16h;Hauer;Boqueirão;Hauer;10,12;2,2;Média
+04/03/2026;tarde;17:21;17h;Guabirotuba;Cajuru;Novo Mundo;7,9;3,5;Média
+04/03/2026;tarde;18:26;18h;Portão;Portão;Hauer;7,8;2,7;Média
+04/03/2026;tarde;16:59;16h;Boqueirão;Boqueirão;Fanny;7,38;1,4;Curta
+04/03/2026;tarde;16:06;16h;Hauer;Boqueirão;Guabirotuba;7,1;3,1;Média
+04/03/2026;tarde;17:11;17h;Guabirotuba;Cajuru;Xaxim;6,7;1,1;Curta
+04/03/2026;tarde;17:44;17h;Boqueirão;Boqueirão;Guabirotuba;6,6;0,9;Curta
+04/03/2026;tarde;16:40;16h;Hauer;Boqueirão;Guaíra;6,5;1,5;Curta
+04/03/2026;tarde;19:11;19h;Lindóia;Portão;Novo Mundo;6,5;1,7;Curta
+04/03/2026;tarde;18:39;18h;Novo Mundo;Portão;Fanny;6,5;0,7;Curta
+04/03/2026;tarde;19:00;19h;Novo Mundo;Portão;Hauer;6,5;2,6;Média
+04/03/2026;tarde;16:29;16h;Parolin;Portão;Xaxim;6,5;1,6;Curta
+04/03/2026;tarde;17:55;17h;Xaxim;Boqueirão;Fanny;6,5;1,2;Curta
+05/03/2026;tarde;17:08;17h;Parolin;Portão;Guabirotuba;11,4;1,2;Curta
+05/03/2026;tarde;17:43;17h;Boqueirão;Boqueirão;Hauer;9,2;2,5;Média
+05/03/2026;tarde;15:37;15h;Xaxim;Boqueirão;Guaíra;8,9;3,8;Média
+05/03/2026;tarde;19:34;19h;Hauer;Boqueirão;Lindóia;8,8;4,1;Longa
+05/03/2026;tarde;16:15;16h;Guaíra;Portão;Boqueirão;8,3;2,3;Média
+05/03/2026;tarde;17:56;17h;Boqueirão;Boqueirão;Hauer;8,2;3,3;Média
+05/03/2026;tarde;17:23;17h;Hauer;Boqueirão;Capão Raso;8,1;2;Curta
+05/03/2026;tarde;18:50;18h;Xaxim;Boqueirão;Boqueirão;8,1;2,8;Média
+05/03/2026;tarde;19:03;19h;Novo Mundo;Portão;Boqueirão;8;4,6;Longa
+05/03/2026;tarde;18:25;18h;Boqueirão;Boqueirão;Água Verde;7,8;2,6;Média
+05/03/2026;tarde;16:46;16h;Água Verde;Portão;Guaíra;7,6;2;Curta
+05/03/2026;tarde;16:48;16h;Água Verde;Portão;Novo Mundo;6,7;3,1;Média
+05/03/2026;tarde;19:54;19h;Portão;Portão;Boqueirão;6,7;1,1;Curta
+05/03/2026;tarde;15:04;15h;Boqueirão;Boqueirão;Xaxim;6,6;0,8;Curta
+05/03/2026;tarde;15:08;15h;Boqueirão;Boqueirão;Parolin;6,6;1,7;Curta
+05/03/2026;tarde;16:07;16h;Fanny;Portão;Parolin;6,6;1,7;Curta
+05/03/2026;tarde;20:05;20h;Novo Mundo;Portão;Parolin;6,6;2,3;Média
+05/03/2026;tarde;16:52;16h;Parolin;Portão;Boqueirão;6,6;1,2;Curta
+05/03/2026;tarde;18:13;18h;Boqueirão;Boqueirão;Xaxim;6,5;2,2;Média
+05/03/2026;tarde;18:37;18h;Boqueirão;Boqueirão;Boqueirão;6,5;3,1;Média
+05/03/2026;tarde;19:19;19h;Boqueirão;Boqueirão;Fanny;6,5;1,6;Curta
+05/03/2026;tarde;16:02;16h;Fanny;Portão;Hauer;6,5;1;Curta
+05/03/2026;tarde;19:26;19h;Hauer;Boqueirão;Portão;6,5;1,2;Curta
+05/03/2026;tarde;16:21;16h;Novo Mundo;Portão;Hauer;6,5;1,7;Curta
+05/03/2026;tarde;15:46;15h;Uberaba;Cajuru;Xaxim;6,5;2,5;Média
+05/03/2026;tarde;15:26;15h;Xaxim;Boqueirão;Boqueirão;6,5;1,6;Curta
+06/03/2026;tarde;17:14;17h;Parolin;Portão;Xaxim;28,9;7,1;Longa
+06/03/2026;tarde;17:59;17h;Hauer;Boqueirão;Fanny;15,9;4,4;Longa
+06/03/2026;tarde;16:38;16h;Hauer;Boqueirão;Xaxim;12,3;2,6;Média
+06/03/2026;tarde;18:29;18h;Boqueirão;Boqueirão;Rebouças;12;3,7;Média
+06/03/2026;tarde;17:04;17h;Guaíra;Portão;Hauer;11,6;3,4;Média
+06/03/2026;tarde;17:43;17h;Uberaba;Cajuru;Sítio Cercado;10,5;2;Curta
+06/03/2026;tarde;18:46;18h;Xaxim;Boqueirão;Sítio Cercado;9,9;3,2;Média
+06/03/2026;tarde;19:16;19h;Sítio Cercado;Bairro Novo;Lindóia;9,3;2,8;Média
+06/03/2026;tarde;16:52;16h;Lindóia;Portão;Boqueirão;8,42;1,4;Curta
+06/03/2026;tarde;18:22;18h;Xaxim;Boqueirão;Sítio Cercado;7,8;2,1;Média
+06/03/2026;tarde;19:03;19h;Pinheirinho;Pinheirinho;Sítio Cercado;6,7;2,5;Média
+06/03/2026;tarde;20:10;20h;Sítio Cercado;Bairro Novo;Fanny;6,7;2,5;Média
+06/03/2026;tarde;15:18;15h;Lindóia;Portão;Sítio Cercado;6,6;1,7;Curta
+06/03/2026;tarde;19:28;19h;Sítio Cercado;Bairro Novo;Sítio Cercado;6,6;1,4;Curta
+06/03/2026;tarde;19:33;19h;Sítio Cercado;Bairro Novo;Sítio Cercado;6,6;1,8;Curta
+06/03/2026;tarde;19:58;19h;Sítio Cercado;Bairro Novo;Portão;6,6;2,3;Média
+06/03/2026;tarde;15:11;15h;Portão;Portão;Sítio Cercado;6,5;2;Curta
+06/03/2026;tarde;19:40;19h;Sítio Cercado;Bairro Novo;Sítio Cercado;6,5;1,2;Curta
+06/03/2026;tarde;19:49;19h;Sítio Cercado;Bairro Novo;Cidade Industrial de Curitiba;6,5;0,6;Curta
+09/03/2026;tarde;15:39;15h;Novo Mundo;Portão;Sítio Cercado;9,6;3,3;Média
+09/03/2026;tarde;17:07;17h;Pinheirinho;Pinheirinho;Pinheirinho;9,1;3,1;Média
+09/03/2026;tarde;17:33;17h;Pinheirinho;Pinheirinho;Pinheirinho;8,5;2,7;Média
+09/03/2026;tarde;16:50;16h;Capão Raso;Pinheirinho;Novo Mundo;8,4;3;Média
+09/03/2026;tarde;18:25;18h;Novo Mundo;Portão;Xaxim;8,22;2,8;Média
+09/03/2026;tarde;18:14;18h;Pinheirinho;Pinheirinho;Pinheirinho;8,12;2,5;Média
+09/03/2026;tarde;18:02;18h;Pinheirinho;Pinheirinho;Capão Raso;8,1;2,3;Média
+09/03/2026;tarde;16:39;16h;Novo Mundo;Portão;Portão;7,72;1,8;Curta
+09/03/2026;tarde;19:01;19h;Novo Mundo;Portão;Pinheirinho;7,2;1,8;Curta
+09/03/2026;tarde;17:23;17h;Sítio Cercado;Bairro Novo;Novo Mundo;6,7;2,6;Média
+09/03/2026;tarde;18:48;18h;Capão Raso;Pinheirinho;Cidade Industrial de Curitiba;6,6;2,3;Média
+09/03/2026;tarde;15:55;15h;Cidade Industrial de Curitiba;CIC;Lindóia;6,6;3,2;Média
+09/03/2026;tarde;15:06;15h;Fanny;Portão;Fazendinha;6,6;1,1;Curta
+09/03/2026;tarde;16:11;16h;Fazendinha;Portão;Novo Mundo;6,6;1,1;Curta
+09/03/2026;tarde;15:15;15h;Água Verde;Portão;Novo Mundo;6,5;0,6;Curta
+09/03/2026;tarde;15:10;15h;Fanny;Portão;Novo Mundo;6,5;1,4;Curta
+09/03/2026;tarde;16:27;16h;Fazendinha;Portão;Novo Mundo;6,5;3,3;Média
+09/03/2026;tarde;15:22;15h;Novo Mundo;Portão;Novo Mundo;6,5;1,5;Curta
+09/03/2026;tarde;18:33;18h;Novo Mundo;Portão;Portão;6,5;1,9;Curta
+09/03/2026;tarde;19:19;19h;Novo Mundo;Portão;Pinheirinho;6,5;1,1;Curta
+09/03/2026;tarde;17:48;17h;Pinheirinho;Pinheirinho;Novo Mundo;6,5;2,2;Média
+09/03/2026;tarde;19:06;19h;Portão;Portão;Guaíra;6,5;2,1;Média
+09/03/2026;tarde;19:27;19h;Portão;Portão;Portão;6,5;3;Média
+10/03/2026;tarde;18:10;18h;Santa Quitéria;Portão;Campo Comprido;12;3,9;Média
+10/03/2026;tarde;17:39;17h;Santa Quitéria;Portão;Santa Quitéria;10,9;2,6;Média
+10/03/2026;tarde;16:43;16h;Água Verde;Portão;Água Verde;9,2;2,8;Média
+10/03/2026;tarde;16:18;16h;Água Verde;Portão;Guaíra;7,5;2,9;Média
+10/03/2026;tarde;15:17;15h;Guaíra;Portão;Água Verde;6,9;0,6;Curta
+10/03/2026;tarde;16:13;16h;Água Verde;Portão;Água Verde;6,7;2,5;Média
+10/03/2026;tarde;18:59;18h;Lindóia;Portão;Água Verde;6,6;2,7;Média
+10/03/2026;tarde;16:35;16h;Água Verde;Portão;Parolin;6,5;1,7;Curta
+10/03/2026;tarde;16:00;16h;Centro;Matriz;Água Verde;6,5;1,5;Curta
+10/03/2026;tarde;16:02;16h;Guaíra;Portão;Portão;6,5;2,3;Média
+10/03/2026;tarde;19:21;19h;Guaíra;Portão;Novo Mundo;6,5;1,2;Curta
+10/03/2026;tarde;18:54;18h;Novo Mundo;Portão;Novo Mundo;6,5;2,1;Média
+10/03/2026;tarde;18:37;18h;Portão;Portão;Uberaba;6,5;2;Curta
+11/03/2026;tarde;17:23;17h;Fanny;Portão;Xaxim;16,7;7,4;Longa
+11/03/2026;tarde;19:02;19h;Parolin;Portão;Boqueirão;13,6;6,5;Longa
+11/03/2026;tarde;17:58;17h;Boqueirão;Boqueirão;Parolin;12,6;2,3;Média
+11/03/2026;tarde;18:53;18h;Capão Raso;Pinheirinho;Boqueirão;10,2;5;Longa
+11/03/2026;tarde;19:27;19h;Boqueirão;Boqueirão;Fanny;9,1;4,4;Longa
+11/03/2026;tarde;17:16;17h;Parolin;Portão;Boqueirão;8,3;1,4;Curta
+11/03/2026;tarde;18:25;18h;Boqueirão;Boqueirão;Guaíra;7,7;2,3;Média
+11/03/2026;tarde;16:49;16h;Guaíra;Portão;Boqueirão;7,56;3,8;Média
+11/03/2026;tarde;18:07;18h;Boqueirão;Boqueirão;Parolin;7;1,2;Curta
+11/03/2026;tarde;16:44;16h;Guaíra;Portão;Xaxim;7;0,9;Curta
+11/03/2026;tarde;19:56;19h;Xaxim;Boqueirão;Boqueirão;6,8;1,6;Curta
+11/03/2026;tarde;18:17;18h;Boqueirão;Boqueirão;Hauer;6,6;1,9;Curta
+11/03/2026;tarde;16:07;16h;Boqueirão;Boqueirão;Xaxim;6,5;2,1;Média
+11/03/2026;tarde;18:38;18h;Boqueirão;Boqueirão;Xaxim;6,5;1,6;Curta
+11/03/2026;tarde;19:46;19h;Boqueirão;Boqueirão;Lindóia;6,5;1,6;Curta
+11/03/2026;tarde;16:35;16h;Lindóia;Portão;Hauer;6,5;0,6;Curta
+12/03/2026;tarde;18:28;18h;Alto Boqueirão;Boqueirão;Boqueirão;12,7;7,2;Longa
+12/03/2026;tarde;17:33;17h;Xaxim;Boqueirão;Boqueirão;12,1;5,2;Longa
+12/03/2026;tarde;18:44;18h;Hauer;Boqueirão;Parolin;9,2;3,1;Média
+12/03/2026;tarde;19:00;19h;Hauer;Boqueirão;Rebouças;9;3,7;Média
+12/03/2026;tarde;19:36;19h;Rebouças;Matriz;Guaíra;8,1;2,8;Média
+12/03/2026;tarde;16:07;16h;Água Verde;Portão;Lindóia;7,7;3,5;Média
+12/03/2026;tarde;16:55;16h;Lindóia;Portão;Alto Boqueirão;7,4;3;Média
+12/03/2026;tarde;17:51;17h;Boqueirão;Boqueirão;Alto Boqueirão;7,3;3,7;Média
+12/03/2026;tarde;18:15;18h;Alto Boqueirão;Boqueirão;Hauer;7,1;1,9;Curta
+12/03/2026;tarde;17:14;17h;Fanny;Portão;Portão;7,1;1,9;Curta
+12/03/2026;tarde;16:33;16h;Guaíra;Portão;Fanny;6,7;2,1;Média
+12/03/2026;tarde;16:48;16h;Guaíra;Portão;Vila izabel;6,7;2,1;Média
+12/03/2026;tarde;15:37;15h;Água Verde;Portão;Centro;6,6;1,8;Curta
+12/03/2026;tarde;19:10;19h;Água Verde;Portão;Xaxim;6,6;2,1;Média
+12/03/2026;tarde;17:28;17h;Boqueirão;Boqueirão;Novo Mundo;6,6;0,7;Curta
+12/03/2026;tarde;15:21;15h;Guaíra;Portão;Rebouças;6,6;3,5;Média
+12/03/2026;tarde;16:21;16h;Guaíra;Portão;Centro;6,6;3;Média
+12/03/2026;tarde;19:25;19h;Rebouças;Matriz;Água Verde;6,6;1,5;Curta
+12/03/2026;tarde;15:47;15h;Água Verde;Portão;Centro;6,5;0,6;Curta
+12/03/2026;tarde;19:53;19h;Centro;Matriz;Rebouças;6,5;2,4;Média
+12/03/2026;tarde;20:02;20h;Centro;Matriz;Lindóia;6,5;2,3;Média
+12/03/2026;tarde;15:06;15h;Parolin;Portão;Guaíra;6,5;2,3;Média
+12/03/2026;tarde;15:15;15h;Parolin;Portão;Guaíra;6,5;2,1;Média
+13/03/2026;tarde;17:03;17h;Hauer;Boqueirão;Novo Mundo;29,6;8,6;Longa
+13/03/2026;tarde;18:35;18h;Seminário;Santa Felicidade;Boqueirão;15,7;4,5;Longa
+13/03/2026;tarde;16:50;16h;Boqueirão;Boqueirão;Jardim Botânico;11,5;4,2;Longa
+13/03/2026;tarde;19:55;19h;Centro;Matriz;Portão;11,27;4,2;Longa
+13/03/2026;tarde;18:14;18h;Guaíra;Portão;Rebouças;9,5;2,3;Média
+13/03/2026;tarde;19:16;19h;Parolin;Portão;Água Verde;9,3;4,4;Longa
+13/03/2026;tarde;18:29;18h;Água Verde;Portão;Rebouças;7,7;1,7;Curta
+13/03/2026;tarde;19:33;19h;Prado Velho;Matriz;Guaíra;7,6;2,5;Média
+13/03/2026;tarde;17:49;17h;Parolin;Portão;Lindóia;7,5;1,4;Curta
+13/03/2026;tarde;19:03;19h;Portão;Portão;São Francisco;7,35;2,4;Média
+13/03/2026;tarde;19:40;19h;Rebouças;Matriz;Guaíra;7,2;1,8;Curta
+13/03/2026;tarde;17:37;17h;Guaíra;Portão;Água Verde;7;1,6;Curta
+13/03/2026;tarde;17:57;17h;Guaíra;Portão;Cidade Industrial de Curitiba;6,9;2,1;Média
+16/03/2026;tarde;17:38;17h;Portão;Portão;Água Verde;21,8;7,1;Longa
+16/03/2026;tarde;17:07;17h;Parolin;Portão;Parolin;10;3,6;Média
+16/03/2026;tarde;16:31;16h;Portão;Portão;Novo Mundo;8;2,8;Média
+16/03/2026;tarde;18:57;18h;Fazendinha;Portão;Guaíra;7,9;3,3;Média
+16/03/2026;tarde;17:25;17h;Portão;Portão;Hauer;7,88;2,6;Média
+16/03/2026;tarde;15:14;15h;Fanny;Portão;Capão Raso;7,6;3,6;Média
+16/03/2026;tarde;19:28;19h;Cidade Industrial de Curitiba;CIC;Hauer;7,59;2,1;Média
+16/03/2026;tarde;15:38;15h;Hauer;Boqueirão;Portão;7,3;1;Curta
+16/03/2026;tarde;17:33;17h;Guaíra;Portão;Guaíra;7,1;2,5;Média
+16/03/2026;tarde;16:54;16h;Fanny;Portão;Fazendinha;6,9;1,6;Curta
+16/03/2026;tarde;18:42;18h;Fazendinha;Portão;Fanny;6,9;1,2;Curta
+16/03/2026;tarde;16:43;16h;Guaíra;Portão;Fazendinha;6,9;1,5;Curta
+16/03/2026;tarde;18:16;18h;Cidade Industrial de Curitiba;CIC;Água Verde;6,7;2,3;Média
+16/03/2026;tarde;16:22;16h;Fanny;Portão;Fazendinha;6,5;2,8;Média
+16/03/2026;tarde;18:31;18h;Fazendinha;Portão;Lindóia;6,5;1,6;Curta
+16/03/2026;tarde;16:18;16h;Guaíra;Portão;Hauer;6,5;2,3;Média
+16/03/2026;tarde;15:22;15h;Hauer;Boqueirão;Hauer;6,5;2,2;Média
+16/03/2026;tarde;15:43;15h;Hauer;Boqueirão;Parolin;6,5;1,6;Curta
+16/03/2026;tarde;15:53;15h;Hauer;Boqueirão;;6,5;1,9;Curta
+17/03/2026;tarde;;00h;;#N/D;Guaíra;;;Curta
+18/03/2026;tarde;17:30;17h;Guabirotuba;Cajuru;Xaxim;17,2;5,6;Longa
+18/03/2026;tarde;18:02;18h;Hauer;Boqueirão;Boqueirão;17;4,9;Longa
+18/03/2026;tarde;19:16;19h;Xaxim;Boqueirão;Xaxim;11,6;5;Longa
+18/03/2026;tarde;19:07;19h;Boqueirão;Boqueirão;Uberaba;10,3;3,9;Média
+18/03/2026;tarde;17:09;17h;Hauer;Boqueirão;Hauer;10;2,9;Média
+18/03/2026;tarde;16:50;16h;Hauer;Boqueirão;Xaxim;8,8;1,3;Curta
+18/03/2026;tarde;19:47;19h;Boqueirão;Boqueirão;Lindóia;8,5;3,8;Média
+18/03/2026;tarde;17:53;17h;Parolin;Portão;Hauer;8,3;1,9;Curta
+18/03/2026;tarde;18:40;18h;Boqueirão;Boqueirão;Xaxim;8;2;Curta
+18/03/2026;tarde;18:27;18h;Xaxim;Boqueirão;Hauer;6,9;0,7;Curta
+18/03/2026;tarde;16:32;16h;Boqueirão;Boqueirão;Hauer;6,5;2,2;Média
+18/03/2026;tarde;17:05;17h;Boqueirão;Boqueirão;Hauer;6,5;2,2;Média
+18/03/2026;tarde;16:04;16h;Guabirotuba;Cajuru;Boqueirão;6,5;1,3;Curta
+18/03/2026;tarde;16:21;16h;Hauer;Boqueirão;Hauer;6,5;1,1;Curta
+18/03/2026;tarde;16:30;16h;Hauer;Boqueirão;Hauer;6,5;1,2;Curta
+18/03/2026;tarde;18:50;18h;Hauer;Boqueirão;Xaxim;6,5;1;Curta
+18/03/2026;tarde;18:35;18h;Xaxim;Boqueirão;Boqueirão;6,5;0,9;Curta
+19/03/2026;tarde;15:56;15h;Hauer;Boqueirão;Boqueirão;10,1;5,1;Longa
+19/03/2026;tarde;16:10;16h;Boqueirão;Boqueirão;Boqueirão;7,6;4;Média
+19/03/2026;tarde;16:40;16h;Hauer;Boqueirão;Alto Boqueirão;7,6;3,4;Média
+19/03/2026;tarde;17:07;17h;Boqueirão;Boqueirão;Xaxim;7,47;2,2;Média
+19/03/2026;tarde;19:16;19h;Sítio Cercado;Bairro Novo;Boqueirão;7,24;2,5;Média
+19/03/2026;tarde;16:48;16h;Boqueirão;Boqueirão;Hauer;7,1;3,1;Média
+19/03/2026;tarde;17:23;17h;Boqueirão;Boqueirão;Boqueirão;7,1;2,8;Média
+19/03/2026;tarde;16:14;16h;Hauer;Boqueirão;Boqueirão;6,9;2,6;Média
+19/03/2026;tarde;16:30;16h;Boqueirão;Boqueirão;Xaxim;6,8;2,2;Média
+19/03/2026;tarde;17:42;17h;Boqueirão;Boqueirão;Sítio Cercado;6,7;2,2;Média
+19/03/2026;tarde;17:54;17h;Xaxim;Boqueirão;Sítio Cercado;6,7;2,2;Média
+19/03/2026;tarde;18:02;18h;Sítio Cercado;Bairro Novo;Sítio Cercado;6,6;2,5;Média
+19/03/2026;tarde;18:33;18h;Sítio Cercado;Bairro Novo;Hauer;6,6;2,6;Média
+19/03/2026;tarde;15:25;15h;Xaxim;Boqueirão;Novo Mundo;6,6;2,7;Média
+19/03/2026;tarde;15:06;15h;Fanny;Portão;Hauer;6,5;2;Curta
+19/03/2026;tarde;15:42;15h;Hauer;Boqueirão;Novo Mundo;6,5;2,6;Média
+19/03/2026;tarde;15:19;15h;Lindóia;Portão;Portão;6,5;2,5;Média
+19/03/2026;tarde;15:13;15h;Novo Mundo;Portão;Sítio Cercado;6,5;1,8;Curta
+19/03/2026;tarde;18:12;18h;Sítio Cercado;Bairro Novo;Sítio Cercado;6,5;1,8;Curta
+19/03/2026;tarde;18:18;18h;Sítio Cercado;Bairro Novo;Sítio Cercado;6,5;2;Curta
+19/03/2026;tarde;18:52;18h;Sítio Cercado;Bairro Novo;Sítio Cercado;6,5;1,1;Curta
+19/03/2026;tarde;19:05;19h;Sítio Cercado;Bairro Novo;Hauer;6,5;2,5;Média
+19/03/2026;tarde;15:37;15h;Xaxim;Boqueirão;Xaxim;6,5;1,4;Curta
+19/03/2026;tarde;19:41;19h;Xaxim;Boqueirão;Xaxim;6,5;2,5;Média
+19/03/2026;tarde;19:50;19h;Xaxim;Boqueirão;Capão Raso;6,5;1;Curta
+20/03/2026;tarde;18:04;18h;Capão Raso;Pinheirinho;Fanny;22,28;6,9;Longa
+20/03/2026;tarde;16:12;16h;Água Verde;Portão;Fanny;17,1;5,1;Longa
+20/03/2026;tarde;17:05;17h;Novo Mundo;Portão;Fanny;9,9;2,6;Média
+20/03/2026;tarde;15:44;15h;Parolin;Portão;Capão Raso;9,8;2,3;Média
+20/03/2026;tarde;17:51;17h;Novo Mundo;Portão;Guaíra;9,1;2,7;Média
+20/03/2026;tarde;17:16;17h;Novo Mundo;Portão;Parolin;8,9;0,8;Curta
+20/03/2026;tarde;17:20;17h;Lindóia;Portão;Capão Raso;8,7;2,1;Média
+20/03/2026;tarde;18:01;18h;Novo Mundo;Portão;Lindóia;8;1;Curta
+20/03/2026;tarde;17:20;17h;Guaíra;Portão;Água Verde;7,9;2;Curta
+20/03/2026;tarde;15:58;15h;Fanny;Portão;Água Verde;7,7;3,7;Média
+20/03/2026;tarde;16:04;16h;Água Verde;Portão;Água Verde;7,5;2,5;Média
+20/03/2026;tarde;15:20;15h;Portão;Portão;Lindóia;7,1;2,3;Média
+20/03/2026;tarde;16:56;16h;Novo Mundo;Portão;Água Verde;6,9;0,8;Curta
+20/03/2026;tarde;15:09;15h;Água Verde;Portão;Novo Mundo;6,5;2,3;Média
+20/03/2026;tarde;16:37;16h;Fanny;Portão;Lindóia;6,5;2,4;Média
+20/03/2026;tarde;15:40;15h;Guaíra;Portão;Novo Mundo;6,5;0,9;Curta
+20/03/2026;tarde;16:48;16h;Lindóia;Portão;Portão;6,5;2,2;Média
+20/03/2026;tarde;16:42;16h;Novo Mundo;Portão;Novo Mundo;6,5;2,6;Média
+20/03/2026;tarde;17:40;17h;Novo Mundo;Portão;Guaíra;6,5;2,2;Média
+20/03/2026;tarde;15:02;15h;Parolin;Portão;Portão;6,5;0,8;Curta
+20/03/2026;tarde;15:15;15h;Portão;Portão;Água Verde;6,5;1,5;Curta
+23/03/2026;tarde;17:03;17h;Portão;Portão;Água Verde;11,6;3,5;Média
+23/03/2026;tarde;18:44;18h;Lindóia;Portão;Parolin;11;3,6;Média
+23/03/2026;tarde;18:08;18h;Portão;Portão;Guaíra;10,06;3,1;Média
+23/03/2026;tarde;17:22;17h;Vila Izabel;Portão;Centro;9,5;3,6;Média
+23/03/2026;tarde;18:56;18h;Água Verde;Portão;Novo Mundo;8,3;3,7;Média
+23/03/2026;tarde;16:42;16h;Portão;Portão;Lindóia;7,8;2,8;Média
+23/03/2026;tarde;17:42;17h;Guaíra;Portão;vila Izabel;7,5;2,1;Média
+23/03/2026;tarde;17:15;17h;Água Verde;Portão;Água Verde;7,4;1,5;Curta
+23/03/2026;tarde;19:54;19h;Batel;Matriz;Capão Raso;7,3;2,4;Média
+23/03/2026;tarde;15:57;15h;Capão Raso;Pinheirinho;Água Verde;7,2;3,3;Média
+23/03/2026;tarde;19:46;19h;Rebouças;Matriz;Rebouças;7,1;2,1;Média
+23/03/2026;tarde;19:08;19h;Centro;Matriz;Fanny;6,9;2,4;Média
+23/03/2026;tarde;16:05;16h;Novo Mundo;Portão;Portão;6,8;2,9;Média
+23/03/2026;tarde;16:55;16h;Novo Mundo;Portão;Fanny;6,8;1,9;Curta
+23/03/2026;tarde;17:52;17h;Lindóia;Portão;Portão;6,6;1,6;Curta
+23/03/2026;tarde;17:59;17h;Lindóia;Portão;Rebouças;6,6;1,8;Curta
+23/03/2026;tarde;19:37;19h;Centro;Matriz;Portão;6,5;0,8;Curta
+23/03/2026;tarde;16:33;16h;Fanny;Portão;Lindóia;6,5;2,5;Média
+23/03/2026;tarde;18:30;18h;Guaíra;Portão;Portão;6,5;1,1;Curta
+23/03/2026;tarde;15:33;15h;Lindóia;Portão;Fanny;6,5;2,6;Média
+23/03/2026;tarde;16:23;16h;Parolin;Portão;Portão;6,5;1,4;Curta
+23/03/2026;tarde;15:42;15h;Portão;Portão;Novo Mundo;6,5;1,4;Curta
+23/03/2026;tarde;15:49;15h;Portão;Portão;Rebouças;6,5;3,1;Média
+23/03/2026;tarde;19:28;19h;Rebouças;Matriz;Xaxim;6,5;2,3;Média
+24/03/2026;tarde;18:33;18h;Novo Mundo;Portão;Novo Mundo;12,6;5,5;Longa
+24/03/2026;tarde;17:35;17h;Fanny;Portão;Portão;11,6;3,3;Média
+24/03/2026;tarde;18:09;18h;Rebouças;Matriz;Rebouças;10,5;2,7;Média
+24/03/2026;tarde;16:17;16h;Centro;Matriz;Água Verde;9,1;2,5;Média
+24/03/2026;tarde;16:22;16h;Centro;Matriz;Parolin;8,2;2,8;Média
+24/03/2026;tarde;17:04;17h;Rebouças;Matriz;Água Verde;8;1,4;Curta
+24/03/2026;tarde;16:36;16h;Água Verde;Portão;Sergipe;7,7;1,8;Curta
+24/03/2026;tarde;17:21;17h;Parolin;Portão;Centro;7,7;1,3;Curta
+24/03/2026;tarde;16:00;16h;Centro;Matriz;São Francisco;7,3;1,8;Curta
+24/03/2026;tarde;15:48;15h;Bigorrílho;Matriz;Lindóia;7;2,9;Média
+24/03/2026;tarde;17:25;17h;Fanny;Portão;Capão Raso;6,6;1,8;Curta
+24/03/2026;tarde;17:50;17h;Novo Mundo;Portão;Novo Mundo;6,6;1,8;Curta
+24/03/2026;tarde;18:28;18h;Novo Mundo;Portão;Rebouças;6,6;0,9;Curta
+24/03/2026;tarde;16:48;16h;Água Verde;Portão;São Francisco;6,5;1,8;Curta
+24/03/2026;tarde;15:42;15h;Batel;Matriz;Batel;6,5;1,4;Curta
+24/03/2026;tarde;15:28;15h;Bigorrílho;Matriz;Centro;6,5;0,9;Curta
+24/03/2026;tarde;15:13;15h;Centro;Matriz;Novo Mundo;6,5;1,3;Curta
+24/03/2026;tarde;19:01;19h;Novo Mundo;Portão;Xaxim;6,5;1,1;Curta
+25/03/2026;tarde;17:00;17h;Boqueirão;Boqueirão;Xaxim;10,5;5,4;Longa
+25/03/2026;tarde;18:07;18h;Xaxim;Boqueirão;Xaxim;8,9;3;Média
+25/03/2026;tarde;17:56;17h;Sítio Cercado;Bairro Novo;Sítio Cercado;8,8;3,7;Média
+25/03/2026;tarde;17:44;17h;Alto Boqueirão;Boqueirão;Sítio Cercado;7,6;3,3;Média
+25/03/2026;tarde;17:12;17h;Alto Boqueirão;Boqueirão;Boqueirão;7,3;2,8;Média
+25/03/2026;tarde;19:37;19h;Boqueirão;Boqueirão;Boqueirão;7,15;1,5;Curta
+25/03/2026;tarde;19:00;19h;Boqueirão;Boqueirão;Novo Mundo;6,9;1,3;Curta
+25/03/2026;tarde;15:37;15h;Fanny;Portão;Boqueirão;6,9;2,3;Média
+25/03/2026;tarde;18:52;18h;Boqueirão;Boqueirão;Xaxim;6,6;1,1;Curta
+25/03/2026;tarde;18:43;18h;Xaxim;Boqueirão;Xaxim;6,6;1;Curta
+25/03/2026;tarde;19:53;19h;Xaxim;Boqueirão;Alto Boqueirão;6,6;1,6;Curta
+25/03/2026;tarde;17:33;17h;Alto Boqueirão;Boqueirão;Boqueirão;6,5;2,2;Média
+25/03/2026;tarde;16:42;16h;Boqueirão;Boqueirão;Hauer;6,5;1,3;Curta
+25/03/2026;tarde;16:48;16h;Boqueirão;Boqueirão;Novo Mundo;6,5;1,2;Curta
+25/03/2026;tarde;16:05;16h;Fanny;Portão;Boqueirão;6,5;1,3;Curta
+25/03/2026;tarde;16:37;16h;Hauer;Boqueirão;Fanny;6,5;1,1;Curta
+25/03/2026;tarde;16:09;16h;Lindóia;Portão;Lindóia;6,5;1,7;Curta
+25/03/2026;tarde;15:54;15h;Novo Mundo;Portão;Xaxim;6,5;2,1;Média
+25/03/2026;tarde;18:40;18h;Xaxim;Boqueirão;Lindóia;6,5;1,5;Curta
+26/03/2026;tarde;19:32;19h;Uberaba;Cajuru;Guaíra;13,4;6,4;Longa
+26/03/2026;tarde;18:03;18h;Água Verde;Portão;Guaíra;11;2,3;Média
+26/03/2026;tarde;17:20;17h;Água Verde;Portão;Água Verde;10,3;3;Média
+26/03/2026;tarde;17:41;17h;Água Verde;Portão;Água Verde;9,9;1,2;Curta
+26/03/2026;tarde;17:54;17h;Guaíra;Portão;Água Verde;9,9;2,3;Média
+26/03/2026;tarde;17:44;17h;Guaíra;Portão;Xaxim;8,7;2;Curta
+26/03/2026;tarde;18:24;18h;Novo Mundo;Portão;Água Verde;8,6;3,5;Média
+26/03/2026;tarde;17:33;17h;Guaíra;Portão;Portão;8,2;2;Curta
+26/03/2026;tarde;18:12;18h;Água Verde;Portão;Novo Mundo;8,1;2,1;Média
+26/03/2026;tarde;17:06;17h;Portão;Portão;Uberaba;7,4;1,8;Curta
+26/03/2026;tarde;19:05;19h;Boqueirão;Boqueirão;Novo Mundo;7,1;1,4;Curta
+26/03/2026;tarde;16:34;16h;Portão;Portão;Portão;7,1;2,5;Média
+26/03/2026;tarde;16:51;16h;Novo Mundo;Portão;Boqueirão;6,9;1,2;Curta
+26/03/2026;tarde;18:54;18h;Boqueirão;Boqueirão;Novo Mundo;6,6;0,8;Curta
+26/03/2026;tarde;19:55;19h;Lindóia;Portão;Capão Raso;6,6;1,4;Curta
+26/03/2026;tarde;19:58;19h;Novo Mundo;Portão;Portão;6,6;1,1;Curta
+26/03/2026;tarde;16:28;16h;Guaíra;Portão;Uberaba;6,6;2;Curta
+26/03/2026;tarde;19:23;19h;Cajuru;Cajuru;Boqueirão;6,6;1,5;Curta
+26/03/2026;tarde;18:38;18h;Juvevê;Matriz;Guaíra;6,5;1,7;Curta
+26/03/2026;tarde;16:08;16h;Boa Vista;Boa Vista;Uberaba;6,5;0,8;Curta
+26/03/2026;tarde;19:09;19h;Ahú;Matriz;Uberaba;6,5;1,8;Curta
+26/03/2026;tarde;19:13;19h;Cajuru;Cajuru;Parolin;6,5;2,2;Média
+27/03/2026;tarde;17:45;17h;Centro;Matriz;Portão;14,4;4;Média
+27/03/2026;tarde;17:09;17h;São Francisco;Matriz;Guaíra;14,3;2,9;Média
+27/03/2026;tarde;16:50;16h;Cabral;Matriz;Hauer;10,3;2,5;Média
+27/03/2026;tarde;19:18;19h;Fanny;Portão;Guaíra;9,9;4,5;Longa
+27/03/2026;tarde;18:07;18h;Boqueirão;Boqueirão;Novo Mundo;9,8;3,3;Média
+27/03/2026;tarde;19:07;19h;Centro;Matriz;Capão Raso;9,3;2;Curta
+27/03/2026;tarde;18:49;18h;Fanny;Portão;Boqueirão;9,1;1,8;Curta
+27/03/2026;tarde;19:30;19h;Guabirotuba;Cajuru;vila Izabel;8,7;3,4;Média
+27/03/2026;tarde;17:39;17h;Água Verde;Portão;Guaíra;8,3;1,2;Curta
+27/03/2026;tarde;17:00;17h;Parolin;Portão;Hauer;8,3;2;Curta
+27/03/2026;tarde;16:30;16h;Parolin;Portão;Guaíra;7,9;1,6;Curta
+27/03/2026;tarde;15:57;15h;Vila Izabel;Portão;Portão;7,8;1,6;Curta
+27/03/2026;tarde;18:23;18h;Vila Izabel;Portão;Água Verde;7,7;3,1;Média
+27/03/2026;tarde;15:37;15h;Centro;Matriz;Hauer;7,19;1,7;Curta
+27/03/2026;tarde;16:34;16h;Santa Quitéria;Portão;Portão;7;1,9;Curta
+27/03/2026;tarde;17:24;17h;Água Verde;Portão;Fanny;7;1,8;Curta
+27/03/2026;tarde;16:41;16h;Batel;Matriz;Novo Mundo;6,8;2,4;Média
+27/03/2026;tarde;18:38;18h;Centro;Matriz;Lindóia;6,8;2,2;Média
+27/03/2026;tarde;15:49;15h;Boqueirão;Boqueirão;Guaíra;6,7;1,2;Curta
+27/03/2026;tarde;15:24;15h;Vila Izabel;Portão;Hauer;6,6;1,8;Curta
+27/03/2026;tarde;20:17;20h;Lindóia;Portão;Parolin;6,6;3,7;Média
+27/03/2026;tarde;16:21;16h;Portão;Portão;Água Verde;6,6;1;Curta
+27/03/2026;tarde;15:15;15h;Vila Izabel;Portão;Boqueirão;6,5;1;Curta
+27/03/2026;tarde;19:54;19h;Água Verde;Portão;Alto Boqueirão;6,5;2,1;Média
+27/03/2026;tarde;19:44;19h;Lindóia;Portão;Parolin;6,5;3,2;Média
+27/03/2026;tarde;16:00;16h;Água Verde;Portão;Rebouças;6,5;1,4;Curta
+27/03/2026;tarde;15:05;15h;Água Verde;Portão;;6,5;1,5;Curta
