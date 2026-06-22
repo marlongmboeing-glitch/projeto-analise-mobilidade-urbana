@@ -1,0 +1,7 @@
+﻿cenario,valor_compra,entrada,saldo_devedor,parcela_mes,numero_parcelas,total_pago,horas_dia,km_hora
+
+financiamento,69000,15000,54000,1618,48,92664,12,15
+
+carro_alugado,NULL,NULL,NULL,2316,NULL,NULL,12,15
+
+carro_eletrico,119000,NULL,NULL,NULL,NULL,NULL,12,15
