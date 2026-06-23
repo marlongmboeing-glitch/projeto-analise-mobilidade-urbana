@@ -1,4 +1,4 @@
-# 📊 Inteligência de Mercado & Controladoria Aplicada à Mobilidade Urbana
+# 📊 Inteligência de Mercado & Controladoria Aplicada à Mobilidade Urbana 
 ## Esteira Evolutiva de Projetos Analíticos (SQL, Excel e Power BI)
 
 Este repositório apresenta uma esteira de projetos práticos construídos com foco em **Business Intelligence, Engenharia de Custos e Controladoria**. Utilizando dados históricos proprietários e reais da operação de mobilidade urbana (março de 2026), as análises foram estruturadas para transformar dados operacionais brutos em inteligência corporativa para suporte à tomada de decisão.
