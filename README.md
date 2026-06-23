@@ -18,14 +18,12 @@ Analisar o comportamento das operações e faturamento no intervalo de pico da m
 
 ### 📈 Resultados e Validações Visuais (Projeto 1)
 
-<img width="1269" height="653" alt="Print 1 Query maior faturamento por bairro" src="https://github.com/user-attachments/assets/f3073c57-5eea-4c82-b57c-a262ba1c6f91" />
-<img width="1271" height="649" alt="Print 2 Query maior n° corridas bairro" src="https://github.com/user-attachments/assets/00a681e9-b123-44b2-97aa-0dd802a23d06" />
-<img width="1275" height="695" alt="Print 3 Query bairros com faturamento acima da média" src="https://github.com/user-attachments/assets/d4ad28ba-8a91-4750-9abc-1664cddb057e" />
+<img width="1269" height="653" alt="Print 1 Query maior faturamento por bairro" src="https://github.com/user-attachments/assets/8fc21543-5bfc-418f-ad4a-2ea59be5a09d" />
 
+<img width="1271" height="649" alt="Print 2 Query maior n° corridas bairro" src="https://github.com/user-attachments/assets/eee82554-4086-41c5-b098-83fca1584c08" />
 
----
+<img width="1275" height="695" alt="Print 3 Query bairros com faturamento acima da média" src="https://github.com/user-attachments/assets/5269f0d9-88c5-4ad8-ae85-c9b2d621e2f9" />
 
-## 📉 Projeto 2: Engenharia de Custos, Gestão de Ativos & Controladoria
 
 ### 🎯 Objetivo do Projeto
 Avaliar a viabilidade financeira e o impacto patrimonial de três modelos operacionais distintos: **Veículo Próprio (Financiado), Veículo Alugado (OpEx) e Projeções de Eletrificação da Frota**.
@@ -44,13 +42,16 @@ Avaliar a viabilidade financeira e o impacto patrimonial de três modelos operac
 Decisões de investimentos operacionais exigem uma visão integrada de indicadores. Sob determinadas faixas de rodagem, o **modelo de locação (OpEx)** desponta como uma vantagem competitiva superior, pois transfere os riscos de depreciação e manutenção imprevisível para o custo fixo do contrato, garantindo previsibilidade total ao fluxo de caixa.
 
 ### 📈 Resultados e Validações Visuais (Projeto 2)
-<img width="1053" height="659" alt="1º Cenários Analisados" src="https://github.com/user-attachments/assets/8865a6f8-1457-4dfe-8336-ae695fa74670" />
-<img width="1271" height="693" alt="2º Comparação financeira" src="https://github.com/user-attachments/assets/42c065c6-3655-4c3b-8794-5f6403046fcc" />
-<img width="855" height="669" alt="3º Comparação Operacional" src="https://github.com/user-attachments/assets/6dcd120a-6003-4135-b2b7-a4cba220381a" />
-<img width="1277" height="695" alt="4º Depreciacao patrimonial" src="https://github.com/user-attachments/assets/63880585-58c4-401e-8814-2f72693171de" />
-<img width="1275" height="699" alt="5º KPI Operacional e Patrimonial" src="https://github.com/user-attachments/assets/d560793e-56ee-407b-80e0-3c183ceb6ac9" />
 
+<img width="1053" height="640" alt="1º Cenários Analisados" src="https://github.com/user-attachments/assets/e294f04b-9005-4795-8d81-d730bbc42f9c" />
 
+<img width="1273" height="627" alt="2º Comparação financeira" src="https://github.com/user-attachments/assets/7fb7b9e5-358a-4f2b-a377-c72791814d33" />
+
+<img width="849" height="585" alt="3º Comparação Operacional" src="https://github.com/user-attachments/assets/d45724c5-2ca5-4eab-93d5-ccd93afa94e9" />
+
+<img width="1272" height="656" alt="4º Depreciacao patrimonial" src="https://github.com/user-attachments/assets/948c5666-f32a-4c70-995a-d28d8704079c" />
+
+<img width="1270" height="657" alt="5º KPI Operacional e Patrimonial" src="https://github.com/user-attachments/assets/abacb2f1-d423-4411-ad67-44062ef50d20" />
 
 
 ---
