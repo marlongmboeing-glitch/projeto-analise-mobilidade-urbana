@@ -73,17 +73,18 @@ Mapear o comportamento operacional e financeiro da atividade através do cruzame
 
 ### 📈 Resultados e Validações Visuais (Projeto 3)
 
-<img width="1280" height="800" alt="1º Kpi_geral" src="https://github.com/user-attachments/assets/7c9073e5-7a27-4741-830b-a2a84ca0424c" />
-<img width="1264" height="664" alt="2º faturamento_total_periodo" src="https://github.com/user-attachments/assets/4b82d1fc-4550-4318-a884-c88d99b3bc83" />
-<img width="1274" height="600" alt="3º Faturamento_bairro_destino" src="https://github.com/user-attachments/assets/c7d38f92-df3c-4dfc-a2fc-bbe8a19cd44a" />
-<img width="1261" height="655" alt="4º Faturamento_periodo_bairro_destino" src="https://github.com/user-attachments/assets/7225dff5-cf1b-4751-a88c-e3b15ff238d8" />
-<img width="1257" height="581" alt="1°" src="https://github.com/user-attachments/assets/276417e5-88ad-4f43-af97-f51a6ee0b5af" />
-<img width="1251" height="583" alt="2°" src="https://github.com/user-attachments/assets/5a890875-af08-439b-ba12-ea1266bcb663" />
-<img width="1255" height="559" alt="3°" src="https://github.com/user-attachments/assets/07f0cd92-2f63-4cec-baa4-b38a731ecd1a" />
-<img width="1257" height="601" alt="4°" src="https://github.com/user-attachments/assets/e1b3716d-d886-4808-bc88-897d13402c4c" />
--<img width="1267" height="703" alt="5°" src="https://github.com/user-attachments/assets/fd54855c-d26e-4e36-81cc-82571dfdaaee" />
---<img width="1251" height="565" alt="6°" src="https://github.com/user-attachments/assets/e887b9dc-06e4-4fc9-a50e-3c6795af209f" />
 
+<img width="1257" height="581" alt="1" src="https://github.com/user-attachments/assets/7b894b9a-4653-455b-8a29-4d2f9fca5f8c" />
+
+<img width="1251" height="580" alt="2" src="https://github.com/user-attachments/assets/bcc3a9a7-1784-4c34-ba64-428aa2bc7b6d" />
+
+<img width="1255" height="556" alt="3" src="https://github.com/user-attachments/assets/62731cd8-ea7a-4b48-af26-b78b6362dbc4" />
+
+<img width="1257" height="597" alt="4" src="https://github.com/user-attachments/assets/04d1d6f4-4ec2-4bce-af56-d892b98d7825" />
+
+<img width="1262" height="653" alt="5" src="https://github.com/user-attachments/assets/b455d632-9bc6-4c85-a6f9-d9df8dad3b0b" />
+
+<img width="1251" height="565" alt="6°" src="https://github.com/user-attachments/assets/3285c891-9c59-4abc-8179-1963d759a8c9" />
 
 ## 🛠️ Tecnologias Utilizadas
 *   **Banco de Dados:** SQL (SQLite)
